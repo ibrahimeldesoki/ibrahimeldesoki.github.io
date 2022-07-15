@@ -1,0 +1,9 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/minimalist"]
+	path = themes/minimalist
+	url = https://github.com/ronv/minimalist.git
+[submodule "themes/yinyang"]
+	path = themes/yinyang
+	url = https://github.com/ahmedash95/hugo-theme-yinyang.git
